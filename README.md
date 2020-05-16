@@ -18,7 +18,7 @@ Apparently Deno is browser compatiable. I don't understand exactly what that mea
 
 ## Running
 
-Run with the following command
+Run with the following command.
 
 ```bash
 deno run src/hello-world.ts
