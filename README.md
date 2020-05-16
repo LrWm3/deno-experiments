@@ -24,6 +24,8 @@ Run with the following command.
 deno run src/hello-world.ts
 ```
 
+Each example has a bash integration test beside it demonstrating how to run the test.
+
 ## Testing
 
 The Deno manual contains a section called [Testing](https://deno.land/manual/testing).
